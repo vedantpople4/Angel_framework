@@ -1,0 +1,7 @@
+name : "dummy_api"
+publish_to : ""
+
+
+dependencies:
+  angel_framework : ^2.0.4+1
+  angel_hot : ^2.0.6
